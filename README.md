@@ -1,7 +1,7 @@
 
 ### 👋 Hi there, I’m Sai Ganesh Varma Siruvuri
 
-🎓 MS in Information Systems  
+🎓 MS in Operational Management and Information Systems  
 💻 Full Stack Java Developer | Spring Boot • React • Docker • AWS  
 📊 Built full-stack campus apps, real-time dashboards, and predictive ML tools  
 🔭 Currently open to full-time & internship roles in backend, Java, or full stack development  
